@@ -5,6 +5,7 @@ Additionally, the users would be able to arrange for in-person instruction from 
 All of this was supposed to be managed by this system, which also gives administrators access to other features like the ability to disable products they no longer wish to offer.
 
 What did you do particularly well?
+
 I think that for this project, I did a very good job of condensing the requirements into use cases. Using the interview notes, 
 I created use cases and described the links between include and extend. I also made a map of who would be able to access what features, and I think it turned out rather nicely.
 
